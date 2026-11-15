@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Monitor Sleep Blockers
+GenericName=Sleep Inhibitor Monitor
+Comment=See which applications keep your computer from sleeping
+Exec=@BINDIR@/monitor-sleep-blockers
+Icon=io.github.richardyusan.MonitorSleepBlockers
+Terminal=false
+Categories=GTK;System;Monitor;
+Keywords=sleep;suspend;inhibit;power;screen;idle;powercfg;
+StartupNotify=true
